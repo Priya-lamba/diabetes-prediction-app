@@ -16,6 +16,11 @@ This is a web application built using **Streamlit** and a trained **Random Fores
 ## 📸 App Screenshot
 
 ![Diabetes App](screenshots/diabetes_app.png)
+---
+
+## 🚀 Try it live
+
+👉 [Click here to use the app](https://diabetes-prediction-app-bm37zcr3wseucxwndt3cxk.streamlit.app/)
 
 ## 🚀 How to Run This Project
 
