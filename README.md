@@ -46,16 +46,4 @@ Age: 45
 The app will show whether you're at high or low risk of diabetes with a probability score.
 ---
 
-🧠 Technologies Used
-Python
-
-Streamlit
-
-scikit-learn
-
-Pandas, NumPy
----
-## 📸 App Screenshot
-
-![Diabetes App](screenshots/diabetes_app.png)
 
