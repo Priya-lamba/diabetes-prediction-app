@@ -13,6 +13,10 @@ This is a web application built using **Streamlit** and a trained **Random Fores
 
 ---
 
+## 📸 App Screenshot
+
+![Diabetes App](screenshots/diabetes_app.png)
+
 ## 🚀 How to Run This Project
 
 ### 1. clone the repository
