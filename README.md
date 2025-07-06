@@ -15,8 +15,38 @@ This is a web application built using **Streamlit** and a trained **Random Fores
 
 ## 🚀 How to Run This Project
 
-### 1. Clone the repository
+### 1. clone the repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/diabetes-prediction-app.git
 cd diabetes-prediction-app
+
+### 2. Install requirements
+pip install -r requirements.txt
+
+### 3. Train the model (creates diabetes_model.pkl)
+python train_model.py
+
+### 4. Run the Streamlit app
+streamlit run app.py
+
+📊 Example Inputs
+Glucose: 120
+
+BMI: 28.5
+
+Age: 45
+
+...
+
+The app will show whether you're at high or low risk of diabetes with a probability score.
+
+
+🧠 Technologies Used
+Python
+
+Streamlit
+
+scikit-learn
+
+Pandas, NumPy
