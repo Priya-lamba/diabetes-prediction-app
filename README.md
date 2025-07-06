@@ -54,3 +54,8 @@ Streamlit
 scikit-learn
 
 Pandas, NumPy
+---
+## 📸 App Screenshot
+
+![Diabetes App](screenshots/diabetes_app.png)
+
